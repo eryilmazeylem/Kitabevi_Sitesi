@@ -10,7 +10,7 @@
 		<!-- For Resposive Device -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>BizPro || Responsive html5 template</title>
+		<title>Sonsuz Sayfalar Kitabevi</title>
 
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
@@ -109,7 +109,7 @@
 										data-splitout="none" 
 										data-responsive_offset="on" 
 										style="z-index: 6; white-space: nowrap;">
-										<h1>HELLO WE'RE BizPro</h1>
+										<h1>Merhaba Sonsuz Sayfalar Kitabevine Hoşgeldiniz!</h1>
 									</div>
 
 									<!-- LAYER NR. 2 -->
@@ -130,7 +130,7 @@
 										data-splitout="none" 
 										data-responsive_offset="on" 
 										style="z-index: 6; white-space: nowrap;">
-										<h6>Sub Head, Motto or Mission subtitle</h6>
+										<h6>"Bir kitabı okurken aslında kendimizi okuruz." – Max Frisch</h6>
 									</div>
 
 
@@ -148,7 +148,7 @@
 										data-splitin="none" 
 										data-splitout="none" 
 										data-responsive_offset="on">
-										<a href="contact-us.html" class="project-button hvr-bounce-to-right">See Our Projects</a>
+										<a href="#project-section" class="project-button hvr-bounce-to-right">Galeriye Git</a>
 									</div>
 								
 								</li>
@@ -194,7 +194,7 @@
 										data-splitout="none" 
 										data-responsive_offset="on" 
 										style="z-index: 6; white-space: nowrap;">
-										<h1>HELLO WE'RE BizPro</h1>
+										<h1>Merhaba Sonsuz Sayfalar Kitabevine Hoşgeldiniz!</h1>
 									</div>
 
 									<!-- LAYER NR. 2 -->
@@ -215,7 +215,7 @@
 										data-splitout="none" 
 										data-responsive_offset="on" 
 										style="z-index: 6; white-space: nowrap;">
-										<h6>Sub Head, Motto or Mission subtitle</h6>
+										<h6>"Okumak, insanı dolu yapar; konuşmak, hazır; yazmak, kesin." – Francis Bacon</h6>
 									</div>
 
 
@@ -233,7 +233,7 @@
 										data-splitin="none" 
 										data-splitout="none" 
 										data-responsive_offset="on">
-										<a href="contact-us.html" class="project-button hvr-bounce-to-right">See Our Projects</a>
+										<a href="#project-section" class="project-button hvr-bounce-to-right">Galeriye Git</a>
 									</div>
 								</li>
 
@@ -261,7 +261,7 @@
 										data-splitout="none" 
 										data-responsive_offset="on" 
 										style="z-index: 6; white-space: nowrap;">
-										<h1>HELLO WE'RE BizPro</h1>
+										<h1>Merhaba Sonsuz Sayfalar Kitabevine Hoşgeldiniz!</h1>
 									</div>
 
 									<!-- LAYER NR. 2 -->
@@ -282,7 +282,7 @@
 										data-splitout="none" 
 										data-responsive_offset="on" 
 										style="z-index: 6; white-space: nowrap;">
-										<h6>Sub Head, Motto or Mission subtitle</h6>
+										<h6>"Kitaplar olmasaydı, medeniyet de olmazdı." – Sir Richard Steele</h6>
 									</div>
 
 
@@ -300,7 +300,7 @@
 										data-splitin="none" 
 										data-splitout="none" 
 										data-responsive_offset="on">
-										<a href="contact-us.html" class="project-button hvr-bounce-to-right">See Our Projects</a>
+										<a href="contact-us.html" class="project-button hvr-bounce-to-right">Galeriye Git</a>
 									</div>
 								</li>
 							</ul>	
@@ -457,11 +457,11 @@
 			<div id="project-section">
 				<div class="container">
 					<div class="theme-title">
-						<h2>OUR AWESOME PROJECTS</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+						<h2>GALERİ</h2>
+						<p>Sahafınızın vitrininden bizim beğendiğimiz bazı kitaplar.</p>
 					</div> <!-- /.theme-title -->
 
-					<div class="project-menu">
+					<%--<div class="project-menu">
 						<ul>
 	        				<li class="filter active tran3s" data-filter="all">All</li>
 							<li class="filter tran3s" data-filter=".web">Web Design</li>
@@ -471,21 +471,16 @@
 							<li class="filter tran3s" data-filter=".dmedia">Digital Media</li>
 							<li class="filter tran3s" data-filter=".support">Support</li>
 	        			</ul>
-					</div>
+					</div>--%>
 
 					<div class="project-gallery clear-fix">
 						<div class="mix grid-item photo om dmedia">
 							<div class="single-img">
-								<img src="images/project/1.jpg" alt="Image">
+								<img src="images/Kitaplar/1.jpg" alt="Image">
 								<div class="opacity">
 									<div class="border-shape"><div><div>
-										<h6><a href="#">Sweet Photo</a></h6>
-										<ul>
-											<li>Business /</li>
-											<li>Service /</li>
-											<li>Product /</li>
-											<li>Template</li>
-										</ul></div></div>
+										<h6><a href="#">Ağustos Böceği ile Karınca</a></h6>
+										</div></div>
 									</div> <!-- /.border-shape -->
 								</div> <!-- /.opacity -->
 							</div> <!-- /.single-img -->
@@ -493,16 +488,11 @@
 
 						<div class="mix grid-item web webd dmedia support">
 							<div class="single-img">
-								<img src="images/project/2.jpg" alt="Image">
+								<img src="images/Kitaplar/2.jpg" alt="Image">
 								<div class="opacity">
 									<div class="border-shape"><div><div>
-										<h6><a href="#">Sweet Photo</a></h6>
-										<ul>
-											<li>Business /</li>
-											<li>Service /</li>
-											<li>Product /</li>
-											<li>Template</li>
-										</ul></div></div>
+										<h6><a href="#">Kendine Ait Bir Oda</a></h6>
+										</div></div>
 									</div> <!-- /.border-shape -->
 								</div> <!-- /.opacity -->
 							</div> <!-- /.single-img -->
@@ -510,16 +500,11 @@
 
 						<div class="mix grid-item photo webd support">
 							<div class="single-img">
-								<img src="images/project/3.jpg" alt="Image">
+								<img src="images/Kitaplar/3.jpg" alt="Image">
 								<div class="opacity">
 									<div class="border-shape"><div><div>
-										<h6><a href="#">Sweet Photo</a></h6>
-										<ul>
-											<li>Business /</li>
-											<li>Service /</li>
-											<li>Product /</li>
-											<li>Template</li>
-										</ul></div></div>
+										<h6><a href="#">Vişne Bahçesi</a></h6>
+										</div></div>
 									</div> <!-- /.border-shape -->
 								</div> <!-- /.opacity -->
 							</div> <!-- /.single-img -->
@@ -527,16 +512,11 @@
 
 						<div class="mix grid-item web om">
 							<div class="single-img">
-								<img src="images/project/4.jpg" alt="Image">
+								<img src="images/Kitaplar/4.jpg" alt="Image">
 								<div class="opacity">
 									<div class="border-shape"><div><div>
-										<h6><a href="#">Sweet Photo</a></h6>
-										<ul>
-											<li>Business /</li>
-											<li>Service /</li>
-											<li>Product /</li>
-											<li>Template</li>
-										</ul></div></div>
+										<h6><a href="#">Mrs.Dalloway</a></h6>
+										</div></div>
 									</div> <!-- /.border-shape -->
 								</div> <!-- /.opacity -->
 							</div> <!-- /.single-img -->
@@ -544,16 +524,11 @@
 
 						<div class="mix grid-item photo webd dmedia om">
 							<div class="single-img">
-								<img src="images/project/5.jpg" alt="Image">
+								<img src="images/Kitaplar/5.jpg" alt="Image">
 								<div class="opacity">
 									<div class="border-shape"><div><div>
-										<h6><a href="#">Sweet Photo</a></h6>
-										<ul>
-											<li>Business /</li>
-											<li>Service /</li>
-											<li>Product /</li>
-											<li>Template</li>
-										</ul></div></div>
+										<h6><a href="#">Vahşetin Çağrısı</a></h6>
+										</div></div>
 									</div> <!-- /.border-shape -->
 								</div> <!-- /.opacity -->
 							</div> <!-- /.single-img -->
@@ -561,16 +536,11 @@
 
 						<div class="mix grid-item web webd dmedia om">
 							<div class="single-img">
-								<img src="images/project/6.jpg" alt="Image">
+								<img src="images/Kitaplar/6.jpg" alt="Image">
 								<div class="opacity">
 									<div class="border-shape"><div><div>
-										<h6><a href="#">Sweet Photo</a></h6>
-										<ul>
-											<li>Business /</li>
-											<li>Service /</li>
-											<li>Product /</li>
-											<li>Template</li>
-										</ul></div></div>
+										<h6><a href="#">Küçük Prens</a></h6>
+										</div></div>
 									</div> <!-- /.border-shape -->
 								</div> <!-- /.opacity -->
 							</div> <!-- /.single-img -->
@@ -578,16 +548,11 @@
 
 						<div class="mix grid-item photo om support">
 							<div class="single-img">
-								<img src="images/project/7.jpg" alt="Image">
+								<img src="images/Kitaplar/7.jpg" alt="Image">
 								<div class="opacity">
 									<div class="border-shape"><div><div>
-										<h6><a href="#">Sweet Photo</a></h6>
-										<ul>
-											<li>Business /</li>
-											<li>Service /</li>
-											<li>Product /</li>
-											<li>Template</li>
-										</ul></div></div>
+										<h6><a href="#">Kuyruklu Yıldız Altında Bir İzdivaç</a></h6>
+										</div></div>
 									</div> <!-- /.border-shape -->
 								</div> <!-- /.opacity -->
 							</div> <!-- /.single-img -->
@@ -595,16 +560,11 @@
 
 						<div class="mix grid-item web support">
 							<div class="single-img">
-								<img src="images/project/8.jpg" alt="Image">
+								<img src="images/Kitaplar/8.jpg" alt="Image">
 								<div class="opacity">
 									<div class="border-shape"><div><div>
-										<h6><a href="#">Sweet Photo</a></h6>
-										<ul>
-											<li>Business /</li>
-											<li>Service /</li>
-											<li>Product /</li>
-											<li>Template</li>
-										</ul></div></div>
+										<h6><a href="#">Araba Sevdası</a></h6>
+										</div></div>
 									</div> <!-- /.border-shape -->
 								</div> <!-- /.opacity -->
 							</div> <!-- /.single-img -->
@@ -612,16 +572,11 @@
 
 						<div class="mix grid-item photo webd dmedia support">
 							<div class="single-img">
-								<img src="images/project/9.jpg" alt="Image">
+								<img src="images/Kitaplar/9.jpg" alt="Image">
 								<div class="opacity">
 									<div class="border-shape"><div><div>
-										<h6><a href="#">Sweet Photo</a></h6>
-										<ul>
-											<li>Business /</li>
-											<li>Service /</li>
-											<li>Product /</li>
-											<li>Template</li>
-										</ul></div></div>
+										<h6><a href="#">Kiralık Konak</a></h6>
+										</div></div>
 									</div> <!-- /.border-shape -->
 								</div> <!-- /.opacity -->
 							</div> <!-- /.single-img -->
@@ -653,24 +608,24 @@
 			<div id="team-section">
 				<div class="container">
 					<div class="theme-title">
-						<h2>Meet our Team</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+						<h2>Ayın Kitapları</h2>
+						<p>Kitap okumak zamanla hayal gücünüzü geliştirir.Her ay düzenli olarak ayın kitaplarını değiştiriyoruz.Bu ayın kitabı Charles Dickens'ın Bir Yılbaşı Öyküsü adlı eseri oldu.</p>
 					</div> <!-- /.theme-title -->
 
 					<div class="clear-fix team-member-wrapper">
 						<div class="float-left">
 							<div class="single-team-member">
 								<div class="img">
-									<img src="images/team/1.jpg" alt="Image">
+									<img src="images/Kitaplar2/1.png" alt="Image">
 									<div class="opacity tran4s">
-										<h4>Gonzalez Gina</h4>
-										<span>Web Developer</span>
-										<p>On the other hand, We denounce ut with righteo indignation and dislike men who are so beguiled and demoralized.</p>
+										<h4>Kitap 1</h4>
+										<span>İki Şehrin Hikayesi</span>
+										<p>Fransız İhtilali sürecinde yaşananların anlatıldığı kitaptır.</p>
 									</div>
 								</div> <!-- /.img -->
 								<div class="member-name">
-									<h6>Gonzalez Gina</h6>
-									<p>Web Developer</p>
+									<h6>1.Kitap</h6>
+									<p>İki Şehrin Hikayesi</p>
 									<ul>
 										<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -684,16 +639,16 @@
 						<div class="float-left">
 							<div class="single-team-member">
 								<div class="img">
-									<img src="images/team/2.jpg" alt="Image">
+									<img src="images/Kitaplar2/2.png" alt="Image">
 									<div class="opacity tran4s">
-										<h4>Holly Vincenzini</h4>
-										<span>Media Partner</span>
-										<p>On the other hand, We denounce ut with righteo indignation and dislike men who are so beguiled and demoralized.</p>
+										<h4>Kitap 2</h4>
+										<span>İdealist Öğretmen</span>
+										<p>Grigory Petrov tarafından kaleme alınan harika bir eser.</p>
 									</div>
 								</div> <!-- /.img -->
 								<div class="member-name">
-									<h6>Holly Vincenzini</h6>
-									<p>Media Partner</p>
+									<h6>2.Kitap</h6>
+									<p>İdealist Öğretmen</p>
 									<ul>
 										<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -707,16 +662,16 @@
 						<div class="float-left">
 							<div class="single-team-member">
 								<div class="img">
-									<img src="images/team/3.jpg" alt="Image">
+									<img src="images/Kitaplar2/3.png" alt="Image">
 									<div class="opacity tran4s">
-										<h4>Ramirez Minita</h4>
-										<span>Graphic Design</span>
-										<p>On the other hand, We denounce ut with righteo indignation and dislike men who are so beguiled and demoralized.</p>
+										<h4>Kitap 3</h4>
+										<span>Bir Yaz Gecesi Rüyası</span>
+										<p>W.Shakespeare tarafından yazılan harika bir kısmen fantastik sayılacak tiyatro kitabı.</p>
 									</div>
 								</div> <!-- /.img -->
 								<div class="member-name">
-									<h6>Ramirez Minita</h6>
-									<p>Graphic Design</p>
+									<h6>3.Kitap</h6>
+									<p>Bir Yaz Gecesi Rüyası</p>
 									<ul>
 										<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -741,7 +696,7 @@
 				<div class="container">
 					<div class="clear-fix">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<div class="img"><img src="images/home/2.jpg" alt="Image"></div>
+							<div class="img"><img src="images/Kitaplar2/2.jpg" alt="Image"></div>
 						</div> <!-- /.col- -->
 
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -750,46 +705,46 @@
 							        <div class="codeconSkills">
 							            <div class="codeconSkillbar">
 							            	<div class="skill-text">
-							            		<span class="codeconSkillArea">Web Development</span>
+							            		<span class="codeconSkillArea">Müşteri Memnuniyeti</span>
 							            	</div>
-							                <div class="skillBar" data-percent="89%">
-							                	<span class="PercentText">89%</span>
+							                <div class="skillBar" data-percent="100%">
+							                	<span class="PercentText">100%</span>
 							                </div>
 							            </div>
 							            <div class="codeconSkillbar">
 							            	<div class="skill-text">
-							            		<span class="codeconSkillArea ">Online Marketing</span>
+							            		<span class="codeconSkillArea ">Mesajlara Dönüş Hızı</span>
 							                    
 							            	</div>
-								            <div class="skillBar" data-percent="58%">
-								                <span class="PercentText">58%</span>
+								            <div class="skillBar" data-percent="96%">
+								                <span class="PercentText">96%</span>
 								            </div>
 							            </div>
 								        <div class="codeconSkillbar">
 								        	<div class="skill-text">
-							            		<span class="codeconSkillArea">Digital Media</span>
+							            		<span class="codeconSkillArea">Sosyal Medya Etkileşimi</span>
 							                    
 							            	</div>
-								            <div class="skillBar" data-percent="49%">
-								                <span class="PercentText">49%</span>
+								            <div class="skillBar" data-percent="84%">
+								                <span class="PercentText">84%</span>
 								            </div>
 								        </div>
 								        <div class="codeconSkillbar">
 								        	<div class="skill-text">
-							            		<span class="codeconSkillArea">Photography</span>
+							            		<span class="codeconSkillArea">Değerlendirme Oranı</span>
 							                    
 							            	</div>
-								            <div class="skillBar" data-percent="76%">
-								                <span class="PercentText">76%</span>
+								            <div class="skillBar" data-percent="89%">
+								                <span class="PercentText">89%</span>
 								            </div>
 								        </div>
 								        <div class="codeconSkillbar">
 								        	<div class="skill-text">
-							            		<span class="codeconSkillArea">Creative Design</span>
+							            		<span class="codeconSkillArea">Web Sitesi Ziyareti</span>
 							                    
 							            	</div>
-								            <div class="skillBar" data-percent="64%">
-								                <span class="PercentText ">64%</span>
+								            <div class="skillBar" data-percent="77%">
+								                <span class="PercentText ">77%</span>
 								            </div>
 								        </div>
 							    	</div> <!-- /.codeconSkills -->
@@ -810,25 +765,25 @@
 			<div id="our-client">
 				<div class="container">
 					<div class="theme-title">
-						<h2>OUR HAPPY CLIENTS</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+						<h2>YORUMLAR</h2>
+						<p>"İyi bir kitap, insanın en sadık dostudur." – Ernest Hemingway</p>
 					</div> <!-- /.theme-title -->
 
 					<div class="client-slider">
 						<div class="item">
 							<img src="images/home/c1.jpg" alt="Client">
-							<p>Our successful construction approach is based on aggressive subcontractor administration, employ-ment of competent personnel, accurate schedule control, quality control and cost control. We employ only qualified subcontractors who share our goal in creating quality projects.</p>
-							<h6>- Spryte Loriano -</h6>
+							<p>Aradığım her kitabı burada bulabiliyorum. Hem klasikler hem de yeni çıkanlar mevcut!.</p>
+							<h6>- Aslı Yıldırım -</h6>
 						</div> <!-- /.item -->
 						<div class="item">
 							<img src="images/home/c2.jpg" alt="Client">
-							<p>Our successful construction approach is based on aggressive subcontractor administration, employ-ment of competent personnel, accurate schedule control, quality control and cost control. We employ only qualified subcontractors who share our goal in creating quality projects.</p>
-							<h6>- Spryte Loriano -</h6>
+							<p>Nadir bulunan kitapları bile burada bulmak mümkün, kesinlikle tavsiye ederim!</h6>
+								<h6>- Zeynep Karaca -</h6>
 						</div> <!-- /.item -->
 						<div class="item">
 							<img src="images/home/c3.jpg" alt="Client">
-							<p>Our successful construction approach is based on aggressive subcontractor administration, employ-ment of competent personnel, accurate schedule control, quality control and cost control. We employ only qualified subcontractors who share our goal in creating quality projects.</p>
-							<h6>- Spryte Loriano -</h6>
+							<p>Kitap seçimimde çalışanlar çok yardımcı oldu, tam bana göre kitaplar önerdiler.</p>
+							<h6>-  Ayşe Çelik -</h6>
 						</div> <!-- /.item -->
 					</div> <!-- /.client-slider -->
 				</div> <!-- /.container -->
