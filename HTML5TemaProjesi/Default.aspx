@@ -594,8 +594,8 @@
 
 			<div class="page-middle-banner">
 				<div class="opacity">
-					<h3>We Create Creative <span class="p-color">&amp;</span> Best Unique Design</h3>
-					<a href="#" class="hvr-bounce-to-right">Let's Work Together</a>
+					<h3>SAYFALAR ARASINDA YENİ DÜNYALAR KEŞFEDİN <span class="p-color">&amp;</span> BİRLİKTE OKUYALIM</h3>
+					<a href="#" class="hvr-bounce-to-right">KEŞFE BAŞLA</a>
 				</div> <!-- /.opacity -->
 			</div> <!-- /.page-middle-banner -->
 
@@ -801,49 +801,49 @@
 					<div class="clear-fix">
 						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 							<div class="single-price-table hvr-float-shadow">
-								<h4>Basic</h4>
-								<p>The best to start</p>
-								<strong class="color1">$9.99 <span>/monthly</span></strong>
+								<h4>📚BAŞLANGIÇ</h4>
+								<p>Kitap dünyasına ilk adımınızı atın!</p>
+								<strong class="color1">49.99₺ <span>/💰 Aylık </span></strong>
 								<ul>
-									<li>3,600 Keywords</li>
-									<li>50 Social Accounts</li>
-									<li>25 Analytics Campaigns</li>
-									<li>45 Email Accounts</li>
-									<li>24/7 Support</li>
+									<li>📖 5 e-kitap erişimi</li>
+									<li>🏷️ %10 indirim fırsatı (basılı kitaplarda)</li>
+									<li>📩 Haftalık okuma önerileri e-posta ile</li>
+									<li>🎧 1 ücretsiz sesli kitap</li>
+									<li>🛍️ Ücretsiz kargo (100₺ üzeri alışverişlerde)</li>
 								</ul>
-								<a href="#" class="tran3s p-color-bg">BUY IT NOW</a>
+								<a href="#" class="tran3s p-color-bg">🛒 HEMEN ÜYE OL</a>
 							</div> <!-- /.single-price-table -->
 						</div> <!-- /.col -->
 
 						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 							<div class="single-price-table hvr-float-shadow">
-								<h4>Advanced</h4>
-								<p>The best to start</p>
-								<strong class="color2">$39.99 <span>/monthly</span></strong>
+								<h4>📖 İLERİ SEVİYE</h4>
+								<p>Daha fazla kitap, daha fazla ayrıcalık!</p>
+								<strong class="color2">99.99₺ <span>/💰 Aylık</span></strong>
 								<ul>
-									<li>3,600 Keywords</li>
-									<li>50 Social Accounts</li>
-									<li>25 Analytics Campaigns</li>
-									<li>45 Email Accounts</li>
-									<li>24/7 Support</li>
+									<li>📖 15 e-kitap erişimi</li>
+									<li>🏷️ %20 indirim fırsatı (basılı kitaplarda)</li>
+									<li>🎟️ Özel yazar etkinliklerine davetiye</li>
+									<li>🎧 3 ücretsiz sesli kitap</li>
+									<li>🛍️ Ücretsiz kargo (tüm alışverişlerde)</li>
 								</ul>
-								<a href="#" class="tran3s p-color-bg">BUY IT NOW</a>
+								<a href="#" class="tran3s p-color-bg">🛒 ŞİMDİ KATIL</a>
 							</div> <!-- /.single-price-table -->
 						</div> <!-- /.col -->
 
 						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 							<div class="single-price-table hvr-float-shadow">
-								<h4>PREMIUM</h4>
-								<p>The best to start</p>
-								<strong class="color3">$59.99 <span>/monthly</span></strong>
-								<ul>
-									<li>3,600 Keywords</li>
-									<li>50 Social Accounts</li>
-									<li>25 Analytics Campaigns</li>
-									<li>45 Email Accounts</li>
-									<li>24/7 Support</li>
+								<h4>🌟 PREMİUM OKUR</h4>
+								<p>Kitap dünyasında sınırsız bir deneyim!</p>
+								<strong  class="color3">149.99₺ <span>/💰 Aylık</span></strong>
+								<ul class="paketler" >
+									<li>📖 Sınırsız e-kitap erişimi</li>
+									<li>🏷️ %30 indirim fırsatı (basılı kitaplarda)</li>
+									<li>🎟️VIP yazar buluşmaları ve özel imza günleri</li>
+									<li>🎧 Sınırsız sesli kitap dinleme hakkı</li>
+									<li>🎁Sürpriz hediyeler ve koleksiyon kitaplar</li>
 								</ul>
-								<a href="#" class="tran3s p-color-bg">BUY IT NOW</a>
+								<a href="#" class="tran3s p-color-bg">🛒 VIP ÜYE OL</a>
 							</div> <!-- /.single-price-table -->
 						</div> <!-- /.col -->
 					</div>
@@ -860,49 +860,49 @@
 			<div id="blog-section">
 				<div class="container">
 					<div class="theme-title">
-						<h2>OUR LATEST Blog</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+						<h2>"KİTAP DÜNYASINDAN HABERLER</h2>
+						<p>Kitap dünyasındaki en yeni gelişmeler, yazar söyleşileri ve edebiyat dünyasından haberleri keşfedin.</p>
 					</div> <!-- /.theme-title -->
 
 					<div class="clear-fix">
 						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 							<div class="single-news-item">
-								<div class="img"><img src="images/blog/1.jpg" alt="Image">
+								<div class="img"><img src="images/Kitaplar3/1.jpg" alt="Image">
 									<a href="blog-details.html" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
 								</div> <!-- /.img -->
 
 								<div class="post">
-									<h6><a href="blog-details.html" class="tran3s">Playback: Akufo-Addo speaks to business community</a></h6>
-									<a href="blog-details.html">Posted by <span class="p-color">admin</span>  at 04 Feb, 2017</a>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis iaculis velit in tristique. Curabitur ac urna urna sed accumsan... <a href="blog-details.html" class="tran3s">Read More</a></p>
+									<h6><a href="blog-details.html" class="tran3s">Orhan Pamuk'un Yeni Kitabı Çıktı: İlk Yorumlar</a></h6>
+									<a href="blog-details.html">Yazar: <span class="p-color">Admin</span> 1 Şubat 2024</a>
+									<p> Orhan Pamuk'un merakla beklenen yeni romanı nihayet raflardaki yerini aldı! Eleştirmenlerden ve okurlardan gelen ilk yorumları keşfedin... <a href="blog-details.html" class="tran3s">Detayları Oku</a></p>
 								</div> <!-- /.post -->
 							</div> <!-- /.single-news-item -->
 						</div> <!-- /.col- -->
 
 						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 							<div class="single-news-item">
-								<div class="img"><img src="images/blog/2.jpg" alt="Image">
+								<div class="img"><img src="images/Kitaplar3/2.jpg" alt="Image">
 									<a href="blog-details.html" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
 								</div> <!-- /.img -->
 
 								<div class="post">
-									<h6><a href="blog-details.html" class="tran3s">Playback: Akufo-Addo speaks to business community</a></h6>
-									<a href="blog-details.html">Posted by <span class="p-color">admin</span>  at 04 Feb, 2017</a>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis iaculis velit in tristique. Curabitur ac urna urna sed accumsan... <a href="blog-details.html" class="tran3s">Read More</a></p>
+									<h6><a href="blog-details.html" class="tran3s"> 2024’ün En Çok Beklenen Romanları</a></h6>
+									<a href="blog-details.html">Yazar:  <span class="p-color">Admin</span>  20 Ocak 2024</a>
+									<p>Bu yıl hangi kitaplar edebiyat dünyasında büyük ses getirecek? 2024'ün en çok beklenen romanlarını sizler için derledik... <a href="blog-details.html" class="tran3s">Detayları Oku</a></p>
 								</div> <!-- /.post -->
 							</div> <!-- /.single-news-item -->
 						</div> <!-- /.col- -->
 
 						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 							<div class="single-news-item">
-								<div class="img"><img src="images/blog/3.jpg" alt="Image">
+								<div class="img"><img src="images/Kitaplar3/3.jpg" alt="Image">
 									<a href="blog-details.html" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
 								</div> <!-- /.img -->
 
 								<div class="post">
-									<h6><a href="blog-details.html" class="tran3s">Playback: Akufo-Addo speaks to business community</a></h6>
-									<a href="blog-details.html">Posted by <span class="p-color">admin</span>  at 04 Feb, 2017</a>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis iaculis velit in tristique. Curabitur ac urna urna sed accumsan... <a href="blog-details.html" class="tran3s">Read More</a></p>
+									<h6><a href="blog-details.html" class="tran3s"> Bu Yıl Mutlaka Okumanız Gereken 5 Kitap</a></h6>
+									<a href="blog-details.html">Yazar: <span class="p-color"> Admin</span> 2 Ocak 2025</a>
+									<p>Kitapseverler için harika bir okuma listesi! 2024’te kaçırmamanız gereken 5 muhteşem kitabı sizler için seçtik... <a href="blog-details.html" class="tran3s">Detayları Oku</a></p>
 								</div> <!-- /.post -->
 							</div> <!-- /.single-news-item -->
 						</div> <!-- /.col- -->
@@ -942,25 +942,25 @@
 					<div class="clear-fix contact-address-content">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<div class="left-side">
-								<h2>Contact Info</h2>
-								<p>There are many variations of passages of Lorem Ipsum available, but the majori have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a pas of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. <br><br>
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ididunt ut labore et dolore magna aliqua.</p>
+								<h2>İletişim Bilgileri</h2>
+								<p>Sonsuz Sayfalar Kitabevi olarak, kitap tutkunlarına en iyi hizmeti sunmayı amaçlıyoruz. Her türlü kitap siparişi, öneri, sorular veya işbirliği konularında bizimle iletişime geçmekten çekinmeyin. Okurlarımızdan gelen geri bildirimler, hizmet kalitemizi artırmamıza yardımcı oluyor. <br><br>
+								</p>
 
 								<ul>
 									<li>
 										<div class="icon tran3s round-border p-color-bg"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
-										<h6>Address</h6>
-										<p>Freedom Way, Jersey City, NJ 07305, USA</p>
+										<h6>Adres</h6>
+										<p>Kadıköy, İstanbul, Türkiye</p>
 									</li>
 									<li>
 										<div class="icon tran3s round-border p-color-bg"><i class="fa fa-phone" aria-hidden="true"></i></div>
-										<h6>Phone</h6>
-										<p>+88 01911854378</p>
+										<h6>Telefon</h6>
+										<p>+90 5003333333</p>
 									</li>
 									<li>
 										<div class="icon tran3s round-border p-color-bg"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
 										<h6>Email</h6>
-										<p>backpiper.com@gmail.com</p>
+										<p>iletisim@sonsuzsayfalarkitabevi.com</p>
 									</li>
 								</ul>
 							</div> <!-- /.left-side -->
@@ -969,7 +969,7 @@
 
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<div class="map-area">
-								<h2>Our Location</h2>
+								<h2>Konumumuz</h2>
 								<div id="map"></div>
 							</div> <!-- /.map-area -->
 						</div> <!-- /.col- -->
@@ -979,33 +979,33 @@
 
 					<!-- Contact Form -->
 					<div class="send-message">
-						<h2>Send Message</h2>
+						<h2>Mesaj Gönder</h2>
 
 						<form action="inc/sendemail.php" class="form-validation" autocomplete="off" method="post">
 							<div class="row">
 								<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 									<div class="single-input">
-										<input type="text" placeholder="First Name*" name="Fname">
+										<input type="text" placeholder="Adınız*" name="Fname">
 									</div> <!-- /.single-input -->
 								</div>
 								<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 									<div class="single-input">
-										<input type="text" placeholder="Last Name*" name="Lname">
+										<input type="text" placeholder="Soyadınız*" name="Lname">
 									</div> <!-- /.single-input -->
 								</div>
 								<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 									<div class="single-input">
-										<input type="email" placeholder="Your Email*" name="email">
+										<input type="email" placeholder="Email Adresiniz*" name="email">
 									</div> <!-- /.single-input -->
 								</div>
 							</div> <!-- /.row -->
 							<div class="single-input">
-								<input type="text" placeholder="Subject" name="sub">
+								<input type="text" placeholder="Konu" name="sub">
 							</div> <!-- /.single-input -->
-							<textarea placeholder="Write Message" name="message"></textarea>
+							<textarea placeholder="Mesaj Yaz" name="message"></textarea>
 
 
-							<button class="tran3s p-color-bg">Send Message</button>
+							<button class="tran3s p-color-bg">Mesaj Gönder</button>
 						</form>
 
 
