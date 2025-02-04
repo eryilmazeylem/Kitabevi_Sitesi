@@ -44,7 +44,7 @@
 			-->
 			<header class="theme-main-header">
 				<div class="container">
-					<a href="index.html" class="logo float-left tran4s"><img src="images/logo/logo.png" alt="Logo"></a>
+					<a href="#" class="logo float-left tran4s"><img src="images/logo/logo.png" alt="Logo"></a>
 					
 					<!-- ========================= Theme Feature Page Menu ======================= -->
 					<nav class="navbar float-right theme-main-menu one-page-menu">
@@ -627,10 +627,10 @@
 									<h6>1.Kitap</h6>
 									<p>İki Şehrin Hikayesi</p>
 									<ul>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+										<%--<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>--%>
+										<li><a href="https://github.com/eryilmazeylem" target="_blank" class="tran3s round-border"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+										<li><a href="https://www.linkedin.com/in/eylem-eryilmaz/" target="_blank" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 									</ul>
 								</div> <!-- /.member-name -->
 							</div> <!-- /.single-team-member -->
@@ -650,10 +650,10 @@
 									<h6>2.Kitap</h6>
 									<p>İdealist Öğretmen</p>
 									<ul>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+										<%--<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>--%>
+										<li><a href="https://github.com/eryilmazeylem" target="_blank" class="tran3s round-border"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+										<li><a href="https://www.linkedin.com/in/eylem-eryilmaz/" target="_blank" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 									</ul>
 								</div> <!-- /.member-name -->
 							</div> <!-- /.single-team-member -->
@@ -673,10 +673,10 @@
 									<h6>3.Kitap</h6>
 									<p>Bir Yaz Gecesi Rüyası</p>
 									<ul>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-										<li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+										<%--<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>--%>
+										<li><a href="https://github.com/eryilmazeylem" target="_blank" class="tran3s round-border"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+										<li><a href="https://www.linkedin.com/in/eylem-eryilmaz/" target="_blank" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 									</ul>
 								</div> <!-- /.member-name -->
 							</div> <!-- /.single-team-member -->
@@ -868,13 +868,13 @@
 						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 							<div class="single-news-item">
 								<div class="img"><img src="images/Kitaplar3/1.jpg" alt="Image">
-									<a href="blog-details.html" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
+									<a href="#" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
 								</div> <!-- /.img -->
 
 								<div class="post">
-									<h6><a href="blog-details.html" class="tran3s">Orhan Pamuk'un Yeni Kitabı Çıktı: İlk Yorumlar</a></h6>
-									<a href="blog-details.html">Yazar: <span class="p-color">Admin</span> 1 Şubat 2024</a>
-									<p> Orhan Pamuk'un merakla beklenen yeni romanı nihayet raflardaki yerini aldı! Eleştirmenlerden ve okurlardan gelen ilk yorumları keşfedin... <a href="blog-details.html" class="tran3s">Detayları Oku</a></p>
+									<h6><a href="#" class="tran3s">Orhan Pamuk'un Yeni Kitabı Çıktı: İlk Yorumlar</a></h6>
+									<a href="#">Yazar: <span class="p-color">Admin</span> 1 Şubat 2024</a>
+									<p> Orhan Pamuk'un merakla beklenen yeni romanı nihayet raflardaki yerini aldı! Eleştirmenlerden ve okurlardan gelen ilk yorumları keşfedin... <a href="#" class="tran3s">Detayları Oku</a></p>
 								</div> <!-- /.post -->
 							</div> <!-- /.single-news-item -->
 						</div> <!-- /.col- -->
@@ -882,13 +882,13 @@
 						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 							<div class="single-news-item">
 								<div class="img"><img src="images/Kitaplar3/2.jpg" alt="Image">
-									<a href="blog-details.html" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
+									<a href="#" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
 								</div> <!-- /.img -->
 
 								<div class="post">
-									<h6><a href="blog-details.html" class="tran3s"> 2024’ün En Çok Beklenen Romanları</a></h6>
-									<a href="blog-details.html">Yazar:  <span class="p-color">Admin</span>  20 Ocak 2024</a>
-									<p>Bu yıl hangi kitaplar edebiyat dünyasında büyük ses getirecek? 2024'ün en çok beklenen romanlarını sizler için derledik... <a href="blog-details.html" class="tran3s">Detayları Oku</a></p>
+									<h6><a href="#" class="tran3s"> 2024’ün En Çok Beklenen Romanları</a></h6>
+									<a href="#">Yazar:  <span class="p-color">Admin</span>  20 Ocak 2024</a>
+									<p>Bu yıl hangi kitaplar edebiyat dünyasında büyük ses getirecek? 2024'ün en çok beklenen romanlarını sizler için derledik... <a href="#" class="tran3s">Detayları Oku</a></p>
 								</div> <!-- /.post -->
 							</div> <!-- /.single-news-item -->
 						</div> <!-- /.col- -->
@@ -896,13 +896,13 @@
 						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 							<div class="single-news-item">
 								<div class="img"><img src="images/Kitaplar3/3.jpg" alt="Image">
-									<a href="blog-details.html" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
+									<a href="#" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
 								</div> <!-- /.img -->
 
 								<div class="post">
-									<h6><a href="blog-details.html" class="tran3s"> Bu Yıl Mutlaka Okumanız Gereken 5 Kitap</a></h6>
-									<a href="blog-details.html">Yazar: <span class="p-color"> Admin</span> 2 Ocak 2025</a>
-									<p>Kitapseverler için harika bir okuma listesi! 2024’te kaçırmamanız gereken 5 muhteşem kitabı sizler için seçtik... <a href="blog-details.html" class="tran3s">Detayları Oku</a></p>
+									<h6><a href="#" class="tran3s"> Bu Yıl Mutlaka Okumanız Gereken 5 Kitap</a></h6>
+									<a href="#">Yazar: <span class="p-color"> Admin</span> 2 Ocak 2025</a>
+									<p>Kitapseverler için harika bir okuma listesi! 2024’te kaçırmamanız gereken 5 muhteşem kitabı sizler için seçtik... <a href="#" class="tran3s">Detayları Oku</a></p>
 								</div> <!-- /.post -->
 							</div> <!-- /.single-news-item -->
 						</div> <!-- /.col- -->
@@ -917,7 +917,7 @@
 				Partner Section
 			=====================================================
 			-->
-			<div id="partner-section">
+			<%--<div id="partner-section">
 				<div class="container">
 					<div id="partner_logo" class="owl-carousel owl-theme">
 						<div class="item"><img src="images/logo/p1.png" alt="logo"></div>
@@ -928,7 +928,7 @@
 						<div class="item"><img src="images/logo/p2.png" alt="logo"></div>
 					</div> <!-- End .partner_logo -->
 				</div> <!-- /.container -->
-			</div> <!-- /#partner-section -->
+			</div> <!-- /#partner-section -->--%>
 
 
 
@@ -1043,14 +1043,14 @@
 					<a href="index.html" class="logo"><img src="images/logo/logo.png" alt="Logo"></a>
 
 					<ul>
-						<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="tran3s round-border"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
+						<%--<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>--%>
+						<li><a href="https://github.com/eryilmazeylem" target="_blank" class="tran3s round-border"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.linkedin.com/in/eylem-eryilmaz/" target="_blank" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+						<%--<li><a href="#" class="tran3s round-border"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
 						<li><a href="#" class="tran3s round-border"><i class="fa fa-flickr" aria-hidden="true"></i></a></li>
 						<li><a href="#" class="tran3s round-border"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="tran3s round-border"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-rss" aria-hidden="true"></i></a></li>--%>
 					</ul>
 					<p>Copyright @2018 All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
 				</div>
