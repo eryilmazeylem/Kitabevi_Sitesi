@@ -1,4 +1,4 @@
-# KİTABEVİ SİTESİ
+<!-- # KİTABEVİ SİTESİ
 Bu projede HTML5 tema ile statik bir web sitesi tasarımı yapılmııştır.
 </br>
 ## EKRAN GÖRÜNTÜLERİ
@@ -12,5 +12,5 @@ Bu projede HTML5 tema ile statik bir web sitesi tasarımı yapılmııştır.
 ![](8.png)
 ![](9.png)
 ![](10.png)
-![](11.png)
+![](11.png) -->
 
